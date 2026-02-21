@@ -3,3 +3,6 @@ Black Screen After Login
 Ensure "xorg" is selected in xRDP session menu
 
 Confirm XFCE is defined in ~/.xsession
+
+Panel or Application Issues
+Clear session cache: rm -rf ~/.cache/sessions/*
