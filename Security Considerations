@@ -1,0 +1,15 @@
+This system is designed for:
+
+Home-lab infrastructure
+
+Secure internal remote administration
+
+Cloud engineering practice environments
+
+Not recommended:
+
+Exposing RDP directly to the internet
+
+Running without firewall controls
+
+Mixing anonymous browsing profiles with personal accounts
