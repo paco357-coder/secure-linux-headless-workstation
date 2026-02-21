@@ -1,0 +1,5 @@
+Black Screen After Login
+
+Ensure "xorg" is selected in xRDP session menu
+
+Confirm XFCE is defined in ~/.xsession
