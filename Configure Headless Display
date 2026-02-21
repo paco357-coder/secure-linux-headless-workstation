@@ -1,2 +1,6 @@
 sudo apt install xserver-xorg-video-dummy -y
 sudo mkdir -p /etc/X11/xorg.conf.d
+
+Create /etc/X11/xorg.conf.d/10-headless.conf with dummy display configuration.
+
+Reboot and validate operation without monitor.
