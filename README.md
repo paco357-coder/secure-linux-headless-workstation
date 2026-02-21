@@ -94,3 +94,19 @@ This mirrors secure remote-access design principles used in cloud-hosted Linux n
 sudo apt update
 sudo apt install xrdp xorgxrdp -y
 sudo systemctl enable --now xrdp
+
+Cloud-focused infrastructure lab project demonstrating:
+
+Linux systems administration
+
+Remote access troubleshooting
+
+Desktop environment migration
+
+Headless display engineering
+
+Baseline security hardening
+
+Bobby Kirkland Jr  
+AWS Certified Solutions Architect – Associate  
+Cloud Engineer | Infrastructure | Security
