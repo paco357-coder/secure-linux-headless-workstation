@@ -1,0 +1,2 @@
+sudo apt install xserver-xorg-video-dummy -y
+sudo mkdir -p /etc/X11/xorg.conf.d
